@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using Xunit;
 
 namespace AetherTest
@@ -8,26 +9,27 @@ namespace AetherTest
         [Fact]
         public void Test1()
         {
-            string rightTime = "2019-07-09";
-
-            Assert.Equal(rightTime, GetEarlierTime(-24));
+            string rightTime = "2019-07-09 15:21";
+           
+            Assert.Equal(rightTime, GetEarlierTime(-23));
         }
 
-        public static string GetEarlierTime(int hour)
+        [Fact]
+        public void Test2()
         {
-            DateTime now = new DateTime();
-            int minusHours = 0;
-            int minusDays = 0;
-            if((double)hour/24 >= 0)
-            {
-                minusHours = hour % 24;
-                minusDays = hour / 24;
+            string rightTime = "2019-07-08 14:21";
 
-            }
-
-            string dateHour = now.AddHours(-minusHours).ToString("HH");
-
-            return before;
+            Assert.Equal(rightTime, GetEarlierTime(-48));
         }
+
+        public static string GetEarlierTime(int hours)
+        {
+            DateTime date = DateTime.Now.AddHours(hours);
+            string pastDate = date.ToString("yyyy-MM-dd");
+            string pastTime = date.ToString("HH:mm");
+            return $"{pastDate} {pastTime}";
+
+        }
+
     }
 }

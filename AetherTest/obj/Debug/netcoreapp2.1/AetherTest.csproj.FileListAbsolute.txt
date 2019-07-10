@@ -6,7 +6,6 @@ C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreap
 C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.runtimeconfig.dev.json
 C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.dll
 C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.pdb
-C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.csprojAssemblyReference.cache
 C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.csproj.CoreCompileInputs.cache
 C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.AssemblyInfoInputs.cache
 C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.AssemblyInfo.cs
