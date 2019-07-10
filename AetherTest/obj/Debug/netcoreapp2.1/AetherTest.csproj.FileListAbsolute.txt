@@ -1,0 +1,14 @@
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.deps.json
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.runtimeconfig.json
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.runtimeconfig.dev.json
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.dll
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\bin\Debug\netcoreapp2.1\AetherTest.pdb
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.csprojAssemblyReference.cache
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.csproj.CoreCompileInputs.cache
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.AssemblyInfoInputs.cache
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.AssemblyInfo.cs
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.dll
+C:\Users\Neville Bamshoot\source\repos\AetherTest\AetherTest\obj\Debug\netcoreapp2.1\AetherTest.pdb
