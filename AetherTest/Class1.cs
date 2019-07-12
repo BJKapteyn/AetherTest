@@ -11,7 +11,9 @@ namespace AetherTest
         [Fact]
         public void DataTest()
         {
+            double right = .037;
 
+            Assert.Equal(right, PollutantAverages(PollutantData.Data(), x => x.O3));
         }
 
         public static double PollutantAverages(List<PollutantData> PD, Func<PollutantData, IComparable> pollutant)
